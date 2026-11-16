@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Sketch CAD
+
+**Embryo Sketch CAD** is Embryo-Zero's fork of [SolveSpace](https://github.com/solvespace/solvespace), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # SolveSpace
 
 <img src="res/freedesktop/solvespace-scalable.svg" width="70" height="70" alt="SolveSpace Logo" align="left">
